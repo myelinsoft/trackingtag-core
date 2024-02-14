@@ -1,5 +1,5 @@
 {
-  "name": "@myelinsoft/trackingtag-core",
+  "name": "trackingtag-core",
   "version": "0.0.2",
   "description": "",
   "main": "src/index.js",
