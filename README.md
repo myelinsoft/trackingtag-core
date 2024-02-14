@@ -8,5 +8,5 @@
 [![Install Size](https://packagephobia.now.sh/badge?p=trackingtag)](https://packagephobia.now.sh/result?p=trackingtag)
 
 <p align="center">
-This is the core implementation used by other packages like <a href="https://github.com/myelinsoft/trackingtag-core">trackingtag-core</a>
+This is the core implementation used by other packages like <a href="https://github.com/myelinsoft/tracking-tag">trackingtag-tag</a>
 </p>
