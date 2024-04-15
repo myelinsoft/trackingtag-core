@@ -1,6 +1,6 @@
 {
-  "name": "trackingtag-core",
-  "version": "0.0.2",
+  "name": "tracking-tag-core",
+  "version": "0.0.3",
   "description": "",
   "main": "src/index.js",
   "scripts": {
