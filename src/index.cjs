@@ -1,1 +1,1 @@
-const { getCurrentUrl, parseCookies } = require('./utils');
+const { parseCookies, getCurrentUrl } = require('./utils');
