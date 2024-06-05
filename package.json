@@ -2,6 +2,7 @@
   "name": "trackingtag-core",
   "version": "0.0.5",
   "description": "",
+  "type": "module",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
